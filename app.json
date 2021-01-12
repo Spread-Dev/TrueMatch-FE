@@ -1,0 +1,12 @@
+{
+  "name": "TrueMatchProject",
+  "displayName": "TrueMatchProject",
+  "expo": {
+    "name": "TrueMatchProject",
+    "slug": "TrueMatchProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
